@@ -1,4 +1,4 @@
-Markdown webdocs, docs-ru template, fork me!
+Markdown webdocs, docs-ru template!
 =======
 Шаблон для создания сайта с публикациями, Русский RU язык  
 
